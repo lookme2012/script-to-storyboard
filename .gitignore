@@ -1,0 +1,45 @@
+# 依赖目录
+node_modules/
+
+# 构建产物
+dist/
+
+# 数据库文件（包含用户数据，不应上传）
+app-data/
+
+# SQLite 数据库
+*.sqlite
+*.sqlite3
+*.db
+
+# 日志文件
+*.log
+npm-debug.log*
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 环境变量（可能包含 API Key）
+.env
+.env.local
+.env.*.local
+
+# Electron 构建产物
+release/
+out/
+
+# 临时文件
+*.tmp
+*.bak
+
+# Trae 规则（本地开发用）
+.trae/
