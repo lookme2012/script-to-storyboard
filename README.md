@@ -42,6 +42,16 @@
 - 含故事摘要、完整提案、建议开场镜头
 - 一键创建项目并跳转到工作流
 
+## 🎥 演示
+
+> 以下视频由 AI 根据分镜提示词生成（即梦），点击缩略图在线播放 ⬇️
+
+<a href="https://github.com/lookme2012/script-to-storyboard/blob/main/demos/demo-chenyuan.mp4"><img src="demos/thumb-chenyuan.png" width="280" alt="陈远 — 病房分镜" /></a>
+<a href="https://github.com/lookme2012/script-to-storyboard/blob/main/demos/demo-nightshift.mp4"><img src="demos/thumb-nightshift.png" width="280" alt="值班员 — 夜间惊悚" /></a>
+<a href="https://github.com/lookme2012/script-to-storyboard/blob/main/demos/demo-family.mp4"><img src="demos/thumb-family.png" width="280" alt="老陈一家 — 生活日常" /></a>
+
+> 左：病房故事 | 中：夜间惊悚 | 右：家庭日常
+
 ## 🛠️ 技术栈
 
 | 层级 | 技术 |
