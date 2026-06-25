@@ -6,7 +6,7 @@
 
 ## ✨ 功能特性
 
-### 🎭 八步剧本工作流
+###  八步剧本工作流
 从破题到医生诊断，8 个步骤循序渐进：
 1. **破题** — 生成 3 个故事方向供选择
 2. **梗概** — 扩展成完整故事概要
@@ -19,12 +19,17 @@
 
 每步支持：生成 → 自检 → 通过 → 下一步，含版本管理与回滚。
 
+<img width="3840" height="1893" alt="1" src="https://github.com/user-attachments/assets/46a606e5-80c5-4b8d-b8da-b1bc426382d6" />
+
 ### 🎞️ V5 分镜流水线
 将剧本转化为专业分镜：
 - **Phase A-D** — 剧本切段、情绪地图、单元分配
 - **Phase E-F-G** — 逐镜生成（COPY 区 + NOTE 区 + 自检）
 - **FloobyNooby 15 步** — 从粗缩略图到最终交付的完整流水线
 - 即梦 2000 字限制智能压缩，一键复制精简版
+
+<img width="3840" height="1893" alt="2" src="https://github.com/user-attachments/assets/e17f9f78-a5af-4c34-8981-5c987faa3707" />
+
 
 ### 🤖 LLM 直连架构
 - 支持 OpenAI / Anthropic / Gemini 三种 API 格式
@@ -37,12 +42,24 @@
 - 可视化编辑 systemPrompt + userPrompt
 - 支持自定义模板与一键重置
 
+<img width="3840" height="1893" alt="3" src="https://github.com/user-attachments/assets/f15b21cc-ecdf-4f94-9cea-5a22a51675eb" />
+
+
 ### 💡 灵感库
 - 87 条精选灵感，覆盖 12 个分类
 - 含故事摘要、完整提案、建议开场镜头
 - 一键创建项目并跳转到工作流
 
 ## 🎥 演示
+
+<img width="3840" height="1647" alt="4" src="https://github.com/user-attachments/assets/e32a6c32-febb-472f-b20a-24cf5c5db5ad" />
+
+
+<img width="3840" height="1652" alt="5" src="https://github.com/user-attachments/assets/d47be5b8-25a1-475a-9bf5-8eb82e889ff4" />
+
+
+<img width="3840" height="1820" alt="6" src="https://github.com/user-attachments/assets/9245a3b7-7c14-41cf-8328-8a0936e29f45" />
+
 
 > 以下视频由 AI 根据分镜提示词生成（即梦），点击缩略图在线播放 ⬇️
 
