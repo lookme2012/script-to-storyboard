@@ -61,7 +61,12 @@
 <img width="3840" height="1820" alt="6" src="https://github.com/user-attachments/assets/9245a3b7-7c14-41cf-8328-8a0936e29f45" />
 
 
-> 以下视频由 AI 根据分镜提示词生成（即梦），点击缩略图在线播放 ⬇️
+> 以下视频由 AI 根据分镜提示词生成案例
+
+
+
+
+
 
 <a href="https://github.com/lookme2012/script-to-storyboard/blob/main/demos/demo-chenyuan.mp4"><img src="demos/thumb-chenyuan.png" width="280" alt="陈远 — 病房分镜" /></a>
 <a href="https://github.com/lookme2012/script-to-storyboard/blob/main/demos/demo-nightshift.mp4"><img src="demos/thumb-nightshift.png" width="280" alt="值班员 — 夜间惊悚" /></a>
