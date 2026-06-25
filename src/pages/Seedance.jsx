@@ -364,7 +364,7 @@ export default function Seedance() {
       {/* 顶部：任务选择 + 操作按钮 */}
       <div style={{ marginBottom: 24 }}>
         <h2 style={{ fontSize: 22, fontWeight: 600, marginBottom: 16 }}>
-          🎞️ V5 分镜
+          🎞️ 分镜
         </h2>
 
         {/* 🚀 快速模式切换 */}

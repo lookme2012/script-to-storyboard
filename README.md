@@ -64,15 +64,49 @@
 > 以下视频由 AI 根据分镜提示词生成案例
 
 
+https://github.com/user-attachments/assets/cfb4a517-4f45-40ab-a9a5-fd85f14fd199
+
+
+
+https://github.com/user-attachments/assets/f5633d14-fbf9-4dd6-a2c7-0f1a31962adc
+
+
+
+https://github.com/user-attachments/assets/cc03a601-4c2c-456d-a4e7-9cab72831d3a
 
 
 
 
-<a href="https://github.com/lookme2012/script-to-storyboard/blob/main/demos/demo-chenyuan.mp4"><img src="demos/thumb-chenyuan.png" width="280" alt="陈远 — 病房分镜" /></a>
-<a href="https://github.com/lookme2012/script-to-storyboard/blob/main/demos/demo-nightshift.mp4"><img src="demos/thumb-nightshift.png" width="280" alt="值班员 — 夜间惊悚" /></a>
-<a href="https://github.com/lookme2012/script-to-storyboard/blob/main/demos/demo-family.mp4"><img src="demos/thumb-family.png" width="280" alt="老陈一家 — 生活日常" /></a>
+https://github.com/user-attachments/assets/35256f42-90a9-4010-a82d-14fed3e02f33
 
-> 左：病房故事 | 中：夜间惊悚 | 右：家庭日常
+
+
+https://github.com/user-attachments/assets/0b0f2fea-18bf-48fa-a41c-c5580e201e01
+
+
+
+https://github.com/user-attachments/assets/1670a370-0ae5-4532-a073-eb35bc7a64c8
+
+
+
+https://github.com/user-attachments/assets/ac2ad6fa-edac-44b5-b965-55a8cd135459
+
+
+
+https://github.com/user-attachments/assets/cedbb5d1-fddb-4d3f-8a64-d3c468e49867
+
+
+
+
+https://github.com/user-attachments/assets/b40816a2-e0d0-435d-9a86-735f0d942826
+
+
+
+https://github.com/user-attachments/assets/e89f9c37-6ac1-4e57-9908-51c0fe5d0181
+
+
+
+
 
 ## 🛠️ 技术栈
 
