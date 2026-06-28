@@ -21,7 +21,7 @@
 
 <img width="3840" height="1893" alt="1" src="https://github.com/user-attachments/assets/46a606e5-80c5-4b8d-b8da-b1bc426382d6" />
 
-### 🎞️ V5 分镜流水线
+### 🎞️ 分镜流水线
 将剧本转化为专业分镜：
 - **Phase A-D** — 剧本切段、情绪地图、单元分配
 - **Phase E-F-G** — 逐镜生成（COPY 区 + NOTE 区 + 自检）
